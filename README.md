@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 BCA Graduate
+  🎓 BCA Graduate<br>
   <p align="center">
   🎓 Currently pursuing MCA<br>
   📧 sudarshanasharma04@gmail.com
